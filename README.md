@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Alexandria, a Cybersecurity, IAM Azure Associate </a>☺</h1> 
 
-<!--
-**beamanalex/beamanalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Microsoft Azure Entra ID</b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Creating User's in Entra ID]()
+- [Cloud Provisioning - P2 Licensing]()
+- [Role Assignments]()
+- [Group Assignments]()
+- [Identity Lifecycle]()
+- [Audit Logs]()
+- [Sign-In Logs]()
+- [Authentication]()
