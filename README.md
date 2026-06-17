@@ -2,7 +2,7 @@
 
 - <b>Microsoft Azure Entra ID</b>
 
-- [Creating User's in Entra ID]()
+- [Creating User's in Entra ID](https://github.com/beamanalex/user-accounts)
 - [Cloud Provisioning - P2 Licensing]()
 - [Role Assignments]()
 - [Group Assignments]()
