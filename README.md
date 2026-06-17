@@ -7,6 +7,6 @@
 - [Role Assignments](https://github.com/beamanalex/role-assignment-repository)
 - [Group Assignments](https://github.com/beamanalex/group-assignment)
 - [Identity Lifecycle]()
-- [Audit Logs]()
+- [Audit Logs](https://github.com/beamanalex/audit-logs)
 - [Sign-In Logs]()
 - [Authentication]()
