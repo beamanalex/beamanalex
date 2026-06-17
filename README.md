@@ -4,7 +4,7 @@
 
 - [Creating User's in Entra ID](https://github.com/beamanalex/user-accounts)
 - [Cloud Provisioning - P2 Licensing](https://github.com/beamanalex/p2-License)
-- [Role Assignments]()
+- [Role Assignments](https://github.com/beamanalex/role-assignment-repository)
 - [Group Assignments]()
 - [Identity Lifecycle]()
 - [Audit Logs]()
