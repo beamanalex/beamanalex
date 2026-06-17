@@ -9,4 +9,4 @@
 - [Identity Lifecycle](https://github.com/beamanalex/identity-lifecycle-)
 - [Audit Logs](https://github.com/beamanalex/audit-logs)
 - [Sign-In Logs](https://github.com/beamanalex/sign-in-logs)
-- [Authentication]()
+- [Authentication](https://github.com/beamanalex/authentication)
