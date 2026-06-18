@@ -10,3 +10,8 @@
 - [Audit Logs](https://github.com/beamanalex/audit-logs)
 - [Sign-In Logs](https://github.com/beamanalex/sign-in-logs)
 - [Authentication](https://github.com/beamanalex/authentication)
+### Okta Projects
+
+- [User Provisioning](https://github.com/beamanalex/okta-user-provisioning)
+- [Group Management](https://github.com/beamanalex/okta-group-management)
+- [Audit Logging](https://github.com/beamanalex/okta-audit-logging)
